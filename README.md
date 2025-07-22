@@ -4,7 +4,9 @@
 
 <div align="center">
 <h1>💫 About Me </h1>
-B.Sc. in Software Engineering.
+Highly motivated Software Engineer with C/C++ programming experience.<br> 
+Team player with strong problem-solving skills focused on delivering efficient solutions.
+
 </div>
 
 <div align="center">
@@ -34,11 +36,11 @@ B.Sc. in Software Engineering.
 <h1>🏆 GitHub Trophies</h1> 
 
   
-![](https://github-profile-trophy.vercel.app/?username=GaiShukrun&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/>
+![](https://github-profile-trophy.vercel.app/?username=GaiShukrun&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
-[![](https://visitcount.itsvg.in/api?id=GaiShukrun&icon=8&color=0)](https://visitcount.itsvg.in)<br/>
+[![](https://visitcount.itsvg.in/api?id=GaiShukrun&icon=8&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
