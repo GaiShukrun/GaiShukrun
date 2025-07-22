@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1>💫 About Me </h1>
- Full Stack Developer with B.Sc. in Software Engineering and expertise in MERN stack development (MongoDB, Express.js, React, Node.js). Passionate about building responsive, user-friendly web and mobile applications with a focus on clean architecture and intuitive UI/UX design. 
+B.Sc. in Software Engineering.
 </div>
 
 <div align="center">
@@ -32,11 +32,13 @@
 
 <div align="center">
 <h1>🏆 GitHub Trophies</h1> 
-  
-![](https://github-profile-trophy.vercel.app/?username=GaiShukrun&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=GaiShukrun&icon=8&color=0)](https://visitcount.itsvg.in)
+  
+![](https://github-profile-trophy.vercel.app/?username=GaiShukrun&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/>
+
+
+
+[![](https://visitcount.itsvg.in/api?id=GaiShukrun&icon=8&color=0)](https://visitcount.itsvg.in)<br/>
 
 </div>
 
